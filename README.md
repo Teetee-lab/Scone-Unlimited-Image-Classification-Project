@@ -41,3 +41,7 @@ After EDA, I used an AWS build-in image classification algorithm to train the mo
       ├── stop_instance.py     <- A Python file that stops notebook instances after all deployment is done to save cost.
       └── README.md          <- Top-level README
 
+## Author
+
+Titilayo Amuwo
+
