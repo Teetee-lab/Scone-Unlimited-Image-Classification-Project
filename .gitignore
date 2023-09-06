@@ -4,8 +4,6 @@ lambdafunction/
 sagemaker-layer/
 train/
 test/
-test.lst
-train.lst
 
 #For macs
 .DS_Store
