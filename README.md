@@ -21,8 +21,8 @@ After EDA, I used an AWS build-in image classification algorithm to train the mo
 **The ML Workflow process** 
 ![ML Automation](/images/wrkflow.png)
 
-**Create a Lambda Function and Step Function**
-![Step Function](/images/stepsimage.jpeg)
+**Lambda Function and Step Function**
+![Step Function](/images/stepsimage.png)
 
 **Invoke Lambda function**
 ![Lambda Invoke - Inference filter](/images/img.png)
