@@ -10,7 +10,7 @@ The goal of the project is to ship a scalable and safe model that can tell bicyc
 
 ## Dataset Overview
 
-The data was extracted from the Python version of the CIFAR-100 dataset. The CIFAR dataset is open source and generously hosted by the University of Toronto at: https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz. In order to use the dataset, I transformed the data into a usable shape and format, split it into train and test then saved it into an AWS S3 bucket.
+The data was extracted from the Python version of the CIFAR-100 dataset. The CIFAR dataset is open source and generously hosted by the University of Toronto. In order to use the dataset, I transformed the data into a usable shape and format, split it into train and test then saved it into an AWS S3 bucket.
 
 ## Project Result
 
